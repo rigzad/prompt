@@ -1,3 +1,6 @@
+# HEADS UP
+All future development will happen at [https://git.sr.ht/~ahappydeath/prompt](https://git.sr.ht/~ahappydeath/prompt)
+
 ![prompt_with_text_lighter](https://user-images.githubusercontent.com/42816/115971052-5772c380-a514-11eb-8b43-dd49e81467f5.png)
 
 ![](https://github.com/silbermm/prompt/workflows/Build/badge.svg)
