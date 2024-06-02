@@ -6,7 +6,7 @@ defmodule Prompt.MixProject do
       app: :prompt,
       description: "A terminal toolkit and a set of helpers for building console applications.",
       version: "0.10.0",
-      elixir: "~> 1.10",
+      elixir: "~> 1.15",
       package: package(),
       source_url: "https://github.com/silbermm/prompt",
       dialyzer: [
@@ -29,7 +29,7 @@ defmodule Prompt.MixProject do
       {:credo, "~> 1.5", only: [:dev, :test], runtime: false},
       {:ex_doc, ">= 0.28.4", only: :dev, runtime: false},
       {:dialyxir, "~> 1.1", only: [:dev], runtime: false},
-      {:nimble_options, "~> 0.3.0"}
+      {:nimble_options, "~> 1.1.0"}
     ]
   end
 
